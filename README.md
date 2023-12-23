@@ -1,4 +1,4 @@
-# Assignment 6: Lempel-Ziv Compression
+# Lempel-Ziv Compression
 
 ## Short Description:
 
